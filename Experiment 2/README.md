@@ -41,7 +41,7 @@ The **Sample Superstore** dataset was obtained from Kaggle.
 * Order ID
 * Customer ID
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * **Microsoft Power BI**
 * **Power Query**
@@ -49,7 +49,7 @@ The **Sample Superstore** dataset was obtained from Kaggle.
 * **CSV**
 * **Kaggle Dataset**
 
-## 🔄 Data Preparation
+##  Data Preparation
 
 The dataset was prepared using **Power Query**.
 
